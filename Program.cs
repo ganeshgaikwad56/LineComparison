@@ -10,6 +10,8 @@ namespace LineComparision
             Console.WriteLine("Welcome to Line comparision Program");
 
             CartesianLine.Length_Line();
+
+            EqualityOfLines.CheckEquality();
         }
 
     }
